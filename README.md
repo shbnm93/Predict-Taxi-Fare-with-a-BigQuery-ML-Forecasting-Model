@@ -22,4 +22,4 @@ Lab Link:
 https://www.cloudskillsboost.google/paths/18/course_templates/626/labs/489289
 
 
-Video Link:
+Video Link: https://youtu.be/JcpDw2nFH5w?si=YTkBgTBpEyxHyTA7
